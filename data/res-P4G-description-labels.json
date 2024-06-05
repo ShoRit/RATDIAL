@@ -1,0 +1,10 @@
+{
+    "Information Inquiry": "Ask for factual information about the organisation for clarification or as an attempt to stall.",
+    "Source Derogation": "Attacks/doubts the organisation's credibility",
+    "Hesitance": "Attempts to stall the conversation by either stating they would donate later or is currently unsure about donating.",
+    "Personal Choice": "Attempts to saves face by asserting their personal preference such as their choice of charity and their choice of donation.",
+    "Self Pity": "Provides a self-centred reason for not being able/willing to donate at the moment",
+    "Self Assertion": "Explicitly refuses to donate without even providing a factual/personal reason",
+    "Counter Argumentation": "Argues that the responsibility of donation is not on them or refutes a previous statement.",
+    "Not a resistance strategy": "Does not conform to any resistance strategy"
+}

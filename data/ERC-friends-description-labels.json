@@ -1,0 +1,10 @@
+{
+    "other": "An emotion or feeling which does not include anger, surprise, sadness, joy, fear, or disgust.",
+    "anger": "Anger is characterized by antagonism toward someone or something you feel has deliberately done you wrong.",
+    "surprise": "Surprsie is an emotion typically resulting from the violation of an expectation or the detection of novelty in the environment",
+    "neutral": "Neutral emotion is characterized by the absence of strong feelings or emotions.",
+    "sadness": "Sadness is an emotional state of unhappiness, ranging in intensity from mild to extreme and usually aroused by the loss of something that is highly valued ",
+    "joy": "Joy is a feeling of extreme gladness, delight, or exultation of the spirit arising from a sense of well-being or satisfaction. ",
+    "fear": "Fear is a basic, intense emotion aroused by the detection of imminent threat, involving an immediate alarm reaction that mobilizes the organism by triggering a set of physiological changes.",
+    "disgust": "Disgust is characterized by strong aversion to something deemed revolting, or toward a person or behavior deemed morally repugnant."
+}
